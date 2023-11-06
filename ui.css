@@ -1,0 +1,2212 @@
+.techverse-home-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .techverse-home-page .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 7768px;
+    position: relative;
+  }
+  
+  .techverse-home-page .group {
+    position: absolute;
+    width: 1440px;
+    height: 88px;
+    top: 0;
+    left: 0;
+    /* box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.5) */
+  }
+  
+  .techverse-home-page .overlap-group {
+    position: relative;
+    width: 1181px;
+    height: 50px;
+    top: 20px;
+    left: 135px;
+  }
+  
+  .techverse-home-page .group-2 {
+    position: absolute;
+    width: 1181px;
+    height: 50px;
+    top: 0;
+    left: 0;
+  }
+  
+  .techverse-home-page .button-medium-wrapper {
+    position: absolute;
+    width: 161px;
+    height: 50px;
+    top: 0;
+    left: 1020px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-home-page .button-medium {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 14px 30px;
+    position: relative;
+    background-color: #ea2134;
+    border-radius: 5px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-home-page .button {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: 21.6px;
+    white-space: nowrap;
+    all: unset;
+    box-sizing: border-box;
+    margin-left: 1032px;
+    background-color: #f8433f;
+    padding: 14px 30px 14px 30px;
+    color: white;
+    width: 139px;
+    height: 51px;
+    margin-top: 0px;
+    border-radius: 5px;
+  }
+  
+  .techverse-home-page .img {
+    position: absolute;
+    width: 206px;
+    height: 40px;
+    top: 6px;
+    left: 0;
+  }
+  
+  .techverse-home-page .navbar {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 44px;
+    position: absolute;
+    top: 14px;
+    left: 380px;
+  }
+  
+  .techverse-home-page .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins";
+    font-weight: 400;
+    color: #11171b;
+    font-size: 14px;
+    letter-spacing: 0.14px;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins";
+    font-weight: 500;
+    color: #ea2134;
+    font-size: 14px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: 21.6px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .p {
+    position: absolute;
+    width: 1170px;
+    top: 258px;
+    left: 135px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+  }
+  
+  .techverse-home-page .text-wrapper-3 {
+    position: absolute;
+    top: 186px;
+    left: 135px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #11171b;
+    font-size: 38px;
+    letter-spacing: 0.38px;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .rectangle {
+    position: absolute;
+    width: 1170px;
+    height: 478px;
+    top: 451px;
+    left: 135px;
+    object-fit: cover;
+  }
+  
+  .techverse-home-page .text-wrapper-4 {
+    position: absolute;
+    top: 130px;
+    left: 135px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ea2134;
+    font-size: 14px;
+    letter-spacing: 0.14px;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .text-wrapper-5 {
+    position: absolute;
+    top: 130px;
+    left: 199px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 14px;
+    letter-spacing: 0.14px;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .text-wrapper-6 {
+    position: absolute;
+    top: 130px;
+    left: 283px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 14px;
+    letter-spacing: 0.14px;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .rectangle-2 {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    top: 138px;
+    left: 184px;
+    background-color: #d9d9d9;
+  }
+  
+  .techverse-home-page .rectangle-3 {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    top: 138px;
+    left: 268px;
+    background-color: #d9d9d9;
+  }
+  
+  .techverse-home-page .heading-we {
+    top: 969px;
+    left: 460px;
+    font-weight: 700;
+    color: #11171b;
+    font-size: 38px;
+    text-align: center;
+    letter-spacing: 0.38px;
+    line-height: normal;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+  }
+  
+  .techverse-home-page .text-wrapper-7 {
+    position: absolute;
+    width: 1170px;
+    top: 1036px;
+    left: 135px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+  }
+  
+  .techverse-home-page .frame {
+    gap: 20px;
+    top: 5277px;
+    left: 735px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .techverse-home-page .image {
+    position: relative;
+    width: 570px;
+    height: 420px;
+    object-fit: cover;
+  }
+  
+  .techverse-home-page .div-wrapper {
+    position: relative;
+    width: 268px;
+    height: 27px;
+  }
+  
+  .techverse-home-page .text-wrapper-8 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #11171b;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .text-wrapper-9 {
+    position: relative;
+    width: 570px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+  }
+  
+  .techverse-home-page .group-3 {
+    position: absolute;
+    width: 1440px;
+    height: 585px;
+    top: 7183px;
+    left: 0;
+  }
+  
+  .techverse-home-page .group-4 {
+    position: absolute;
+    width: 1440px;
+    height: 524px;
+    top: 0;
+    left: 0;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-home-page .group-5 {
+    position: absolute;
+    width: 146px;
+    height: 384px;
+    top: 70px;
+    left: 667px;
+  }
+  
+  .techverse-home-page .text-wrapper-10 {
+    position: absolute;
+    top: 52px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .text-wrapper-11 {
+    position: absolute;
+    top: 90px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .text-wrapper-12 {
+    position: absolute;
+    top: 128px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .text-wrapper-13 {
+    position: absolute;
+    top: 166px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .text-wrapper-14 {
+    position: absolute;
+    top: 206px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .text-wrapper-15 {
+    position: absolute;
+    top: 247px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .text-wrapper-16 {
+    position: absolute;
+    top: 283px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .text-wrapper-17 {
+    position: absolute;
+    top: 324px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .text-wrapper-18 {
+    position: absolute;
+    top: 360px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .group-6 {
+    position: absolute;
+    width: 221px;
+    height: 384px;
+    top: 70px;
+    left: 842px;
+  }
+  
+  .techverse-home-page .group-7 {
+    position: absolute;
+    width: 170px;
+    height: 266px;
+    top: 70px;
+    left: 454px;
+  }
+  
+  .techverse-home-page .frame-2 {
+    gap: 14px;
+    top: 52px;
+    left: 0;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .techverse-home-page .text-wrapper-19 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .text-wrapper-20 {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .overlap-group-wrapper {
+    position: absolute;
+    width: 224px;
+    height: 214px;
+    top: 70px;
+    left: 1084px;
+  }
+  
+  .techverse-home-page .overlap-group-2 {
+    position: relative;
+    width: 234px;
+    height: 214px;
+  }
+  
+  .techverse-home-page .group-8 {
+    position: absolute;
+    width: 30px;
+    height: 162px;
+    top: 52px;
+    left: 0;
+  }
+  
+  .techverse-home-page .group-9 {
+    position: absolute;
+    width: 234px;
+    height: 211px;
+    top: 0;
+    left: 0;
+  }
+  
+  .techverse-home-page .techverse {
+    position: absolute;
+    top: 55px;
+    left: 45px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .hello-techverse-com {
+    position: absolute;
+    top: 99px;
+    left: 45px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .element {
+    position: absolute;
+    top: 143px;
+    left: 45px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .element-2 {
+    position: absolute;
+    top: 187px;
+    left: 45px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .group-10 {
+    position: absolute;
+    width: 273px;
+    height: 254px;
+    top: 70px;
+    left: 134px;
+  }
+  
+  .techverse-home-page .the-thumb-s-natural {
+    position: absolute;
+    width: 270px;
+    top: 52px;
+    left: 1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+  }
+  
+  .techverse-home-page .group-11 {
+    position: absolute;
+    width: 101px;
+    height: 24px;
+    top: 181px;
+    left: 1px;
+  }
+  
+  .techverse-home-page .text-wrapper-21 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .group-12 {
+    position: absolute;
+    width: 199px;
+    height: 36px;
+    top: 218px;
+    left: 1px;
+  }
+  
+  .techverse-home-page .twitter {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 0;
+  }
+  
+  .techverse-home-page .FB {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 54px;
+  }
+  
+  .techverse-home-page .insta {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 109px;
+  }
+  
+  .techverse-home-page .youtube {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 163px;
+  }
+  
+  .techverse-home-page .group-13 {
+    position: absolute;
+    width: 175px;
+    height: 34px;
+    top: 0;
+    left: 0;
+  }
+  
+  .techverse-home-page .group-wrapper {
+    position: absolute;
+    width: 1440px;
+    height: 61px;
+    top: 524px;
+    left: 0;
+    background-color: #11171b;
+  }
+  
+  .techverse-home-page .group-14 {
+    position: relative;
+    width: 305px;
+    height: 27px;
+    top: 17px;
+    left: 568px;
+  }
+  
+  .techverse-home-page .text-wrapper-22 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0.18px;
+    line-height: 26.5px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .overlap {
+    position: absolute;
+    width: 270px;
+    height: 193px;
+    top: 4917px;
+    left: 144px;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-home-page .img-wrapper {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 30px;
+    left: 111px;
+    border-radius: 12px;
+    background: linear-gradient(-48deg, rgb(254, 77, 137) 0%, rgb(246, 126, 46) 100%);
+  }
+  
+  .techverse-home-page .investigation {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 9px;
+    left: 9px;
+  }
+  
+  .techverse-home-page .heading-discover {
+    top: 103px;
+    left: 65px;
+    color: #11171b;
+    text-align: center;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .overlap-2 {
+    position: absolute;
+    width: 270px;
+    height: 193px;
+    top: 4917px;
+    left: 444px;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-home-page .img-2 {
+    position: absolute;
+    width: 29px;
+    height: 29px;
+    top: 10px;
+    left: 9px;
+  }
+  
+  .techverse-home-page .heading-discover-2 {
+    top: 103px;
+    left: 34px;
+    color: #11171b;
+    text-align: center;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .overlap-3 {
+    position: absolute;
+    width: 270px;
+    height: 193px;
+    top: 4917px;
+    left: 744px;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-home-page .img-3 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 8px;
+    left: 8px;
+  }
+  
+  .techverse-home-page .heading-discover-3 {
+    top: 103px;
+    left: 56px;
+    color: #11171b;
+    text-align: center;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .overlap-4 {
+    position: absolute;
+    width: 270px;
+    height: 193px;
+    top: 4917px;
+    left: 1044px;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-home-page .vector {
+    position: absolute;
+    width: 32px;
+    height: 30px;
+    top: 11px;
+    left: 8px;
+  }
+  
+  .techverse-home-page .heading-discover-4 {
+    top: 103px;
+    left: 30px;
+    color: #11171b;
+    text-align: center;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .heading-we-2 {
+    top: 4762px;
+    left: 202px;
+    font-weight: 700;
+    color: #11171b;
+    font-size: 38px;
+    letter-spacing: 0.38px;
+    line-height: normal;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+  }
+  
+  .techverse-home-page .we-have-ten-years-of {
+    position: absolute;
+    width: 970px;
+    top: 4829px;
+    left: 244px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.16px;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .group-15 {
+    position: absolute;
+    width: 1172px;
+    height: 57px;
+    top: 5180px;
+    left: 135px;
+  }
+  
+  .techverse-home-page .text-wrapper-23 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #11171b;
+    font-size: 38px;
+    letter-spacing: 0.38px;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .button-medium-2 {
+    padding: 14px 30px;
+    top: 5px;
+    left: 1037px;
+    background-color: #ea2134;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    position: absolute;
+    border-radius: 5px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-home-page .button-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0.14px;
+    line-height: 20.4px;
+    white-space: nowrap;
+    all: unset;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: Poppins;
+    box-sizing: border-box;
+    background-color: #F13C31;
+    padding: 14px 30px 14px 30px;
+    border-radius: 5px;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-size: 15px;
+    cursor: pointer;
+    /* margin-left: 1032px; */
+    margin-top: 10px;
+    margin-left: -27px;
+  }
+  
+  .techverse-home-page .overlap-wrapper {
+    position: absolute;
+    width: 1170px;
+    height: 220px;
+    top: 6893px;
+    left: 135px;
+  }
+  
+  .techverse-home-page .overlap-5 {
+    position: relative;
+    height: 220px;
+  }
+  
+  .techverse-home-page .group-16 {
+    position: absolute;
+    width: 1170px;
+    height: 220px;
+    top: 0;
+    left: 0;
+    background: linear-gradient(-48deg, rgb(254, 77, 137) 0%, rgb(246, 126, 46) 100%);
+  }
+  
+  .techverse-home-page .grow-up-your-wrapper {
+    position: absolute;
+    width: 616px;
+    height: 126px;
+    top: 47px;
+    left: 60px;
+  }
+  
+  .techverse-home-page .grow-up-your {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 42px;
+    letter-spacing: 0.42px;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .button-medium-3 {
+    padding: 14px 30px;
+    top: 83px;
+    left: 955px;
+    background-color: #ffffff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    position: absolute;
+    border-radius: 5px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-home-page .button-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #fd4f84;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 26.2px;
+    white-space: nowrap;
+    all: unset;
+    box-sizing: border-box;
+    margin-left: 951px;
+    margin-top: 83px;
+    width: 139px;
+    height: 54px;
+    background-color: #ffffff;
+    top: 3945px;
+    border-radius: 5px;
+    color: #fd5180;
+    font-family: Poppins;
+    padding: 14px 30px 14px 30px;
+    font-weight: 500;
+    font-size: smaller;
+    cursor: pointer;
+  }
+  
+  .techverse-home-page .XMLID {
+    position: absolute;
+    width: 177px;
+    height: 49px;
+    top: 100px;
+    left: 700px;
+  }
+  
+  .techverse-home-page .frame-3 {
+    gap: 20px;
+    top: 5277px;
+    left: 135px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .techverse-home-page .text-wrapper-24 {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #11171b;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .overlap-6 {
+    position: absolute;
+    width: 1440px;
+    height: 941px;
+    top: 5882px;
+    left: 0;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-home-page .group-17 {
+    position: absolute;
+    width: 559px;
+    height: 57px;
+    top: 70px;
+    left: 434px;
+  }
+  
+  .techverse-home-page .overlap-7 {
+    position: absolute;
+    width: 1030px;
+    height: 179px;
+    top: 167px;
+    left: 205px;
+    background-color: #ffffff;
+    border-radius: 8px;
+  }
+  
+  .techverse-home-page .text-wrapper-25 {
+    position: absolute;
+    top: 34px;
+    left: 30px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #11171b;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .one-of-the-main {
+    position: absolute;
+    width: 970px;
+    top: 77px;
+    left: 30px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+  }
+  
+  .techverse-home-page .img-4 {
+    position: absolute;
+    width: 20px;
+    height: 2px;
+    top: 48px;
+    left: 980px;
+  }
+  
+  .techverse-home-page .group-18 {
+    position: absolute;
+    width: 1032px;
+    height: 75px;
+    top: 481px;
+    left: 205px;
+  }
+  
+  .techverse-home-page .overlap-8 {
+    position: relative;
+    width: 1030px;
+    height: 75px;
+    background-color: #ffffff;
+    border-radius: 8px;
+  }
+  
+  .techverse-home-page .angle-left {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 23px;
+    left: 970px;
+  }
+  
+  .techverse-home-page .text-wrapper-26 {
+    position: absolute;
+    top: 24px;
+    left: 30px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #11171b;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .overlap-9 {
+    position: absolute;
+    width: 1032px;
+    height: 75px;
+    top: 376px;
+    left: 205px;
+  }
+  
+  .techverse-home-page .group-19 {
+    position: absolute;
+    width: 1032px;
+    height: 75px;
+    top: 0;
+    left: 0;
+  }
+  
+  .techverse-home-page .img-5 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 28px;
+    left: 980px;
+  }
+  
+  .techverse-home-page .overlap-10 {
+    position: absolute;
+    width: 1032px;
+    height: 75px;
+    top: 691px;
+    left: 205px;
+  }
+  
+  .techverse-home-page .overlap-11 {
+    position: absolute;
+    width: 1032px;
+    height: 75px;
+    top: 796px;
+    left: 205px;
+  }
+  
+  .techverse-home-page .overlap-12 {
+    position: absolute;
+    width: 1032px;
+    height: 75px;
+    top: 586px;
+    left: 205px;
+  }
+  
+  .techverse-home-page .overlap-13 {
+    position: absolute;
+    width: 570px;
+    height: 243px;
+    top: 1124px;
+    left: 135px;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-home-page .we-provide-a-well {
+    position: absolute;
+    width: 510px;
+    top: 93px;
+    left: 30px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+  }
+  
+  .techverse-home-page .overlap-14 {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 30px;
+    left: 30px;
+    border-radius: 12px;
+    background: linear-gradient(-48deg, rgb(254, 77, 137) 0%, rgb(246, 126, 46) 100%);
+  }
+  
+  .techverse-home-page .graphic-design {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 8px;
+    left: 9px;
+  }
+  
+  .techverse-home-page .heading-discover-5 {
+    position: absolute;
+    top: 39px;
+    left: 93px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #11171b;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .overlap-15 {
+    position: absolute;
+    width: 570px;
+    height: 243px;
+    top: 1124px;
+    left: 735px;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-home-page .overlap-16 {
+    position: absolute;
+    width: 570px;
+    height: 243px;
+    top: 1397px;
+    left: 135px;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-home-page .overlap-17 {
+    position: absolute;
+    width: 570px;
+    height: 243px;
+    top: 1397px;
+    left: 735px;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-home-page .overlap-18 {
+    position: absolute;
+    width: 570px;
+    height: 243px;
+    top: 1670px;
+    left: 135px;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-home-page .overlap-19 {
+    position: absolute;
+    width: 570px;
+    height: 243px;
+    top: 1670px;
+    left: 735px;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-home-page .user-experience {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 10px;
+    left: 9px;
+  }
+  
+  .techverse-home-page .group-20 {
+    position: absolute;
+    width: 1444px;
+    height: 1243px;
+    top: 1983px;
+    left: 0;
+  }
+  
+  .techverse-home-page .overlap-20 {
+    position: relative;
+    width: 1440px;
+    height: 1243px;
+  }
+  
+  .techverse-home-page .div-2 {
+    position: absolute;
+    width: 1440px;
+    height: 988px;
+    top: 255px;
+    left: 0;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-home-page .image-2 {
+    position: absolute;
+    width: 1170px;
+    height: 547px;
+    top: 0;
+    left: 135px;
+  }
+  
+  .techverse-home-page .heading-we-3 {
+    top: 597px;
+    left: 199px;
+    font-weight: 700;
+    color: #000000;
+    font-size: 38px;
+    letter-spacing: 0.38px;
+    line-height: normal;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+  }
+  
+  .techverse-home-page .the-engineering-team {
+    position: absolute;
+    width: 1170px;
+    top: 669px;
+    left: 135px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffffcc;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+  }
+  
+  .techverse-home-page .group-21 {
+    position: absolute;
+    width: 1186px;
+    height: 416px;
+    top: 757px;
+    left: 135px;
+  }
+  
+  .techverse-home-page .overlap-21 {
+    position: absolute;
+    width: 270px;
+    height: 193px;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+    border-color: #0000001a;
+  }
+  
+  .techverse-home-page .improvement {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 10px;
+    left: 10px;
+  }
+  
+  .techverse-home-page .heading-discover-6 {
+    top: 102px;
+    left: 54px;
+    color: #000000;
+    text-align: center;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .overlap-group-3 {
+    position: absolute;
+    width: 270px;
+    height: 193px;
+    top: 0;
+    left: 300px;
+    border: 1px solid;
+    border-color: #0000001a;
+  }
+  
+  .techverse-home-page .img-6 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 9px;
+    left: 9px;
+  }
+  
+  .techverse-home-page .heading-discover-7 {
+    top: 102px;
+    left: 88px;
+    color: #000000;
+    text-align: center;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .overlap-22 {
+    position: absolute;
+    width: 270px;
+    height: 193px;
+    top: 0;
+    left: 600px;
+    border: 1px solid;
+    border-color: #0000001a;
+  }
+  
+  .techverse-home-page .smartphone {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 9px;
+    left: 8px;
+  }
+  
+  .techverse-home-page .heading-discover-8 {
+    top: 102px;
+    left: 48px;
+    color: #000000;
+    text-align: center;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .overlap-23 {
+    position: absolute;
+    width: 270px;
+    height: 193px;
+    top: 0;
+    left: 900px;
+    border: 1px solid;
+    border-color: #0000001a;
+  }
+  
+  .techverse-home-page .prototyping {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    top: 9px;
+    left: 8px;
+  }
+  
+  .techverse-home-page .heading-discover-9 {
+    top: 102px;
+    left: 57px;
+    color: #000000;
+    text-align: center;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .overlap-24 {
+    position: absolute;
+    width: 270px;
+    height: 193px;
+    top: 223px;
+    left: 0;
+    border: 1px solid;
+    border-color: #0000001a;
+  }
+  
+  .techverse-home-page .overlap-25 {
+    position: absolute;
+    width: 270px;
+    height: 193px;
+    top: 223px;
+    left: 300px;
+    border: 1px solid;
+    border-color: #0000001a;
+  }
+  
+  .techverse-home-page .heading-discover-10 {
+    top: 102px;
+    left: 84px;
+    color: #000000;
+    text-align: center;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .overlap-26 {
+    position: absolute;
+    width: 270px;
+    height: 193px;
+    top: 223px;
+    left: 600px;
+    border: 1px solid;
+    border-color: #0000001a;
+  }
+  
+  .techverse-home-page .heading-discover-11 {
+    top: 102px;
+    left: 64px;
+    color: #000000;
+    text-align: center;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .overlap-27 {
+    position: absolute;
+    width: 270px;
+    height: 193px;
+    top: 223px;
+    left: 900px;
+    border: 1px solid;
+    border-color: #0000001a;
+  }
+  
+  .techverse-home-page .branding {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    top: 8px;
+    left: 8px;
+  }
+  
+  .techverse-home-page .heading-discover-12 {
+    top: 102px;
+    left: 85px;
+    color: #000000;
+    text-align: center;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .group-22 {
+    position: absolute;
+    width: 1164px;
+    height: 500px;
+    top: 3296px;
+    left: 140px;
+  }
+  
+  .techverse-home-page .group-23 {
+    position: absolute;
+    width: 578px;
+    height: 312px;
+    top: 169px;
+    left: 590px;
+  }
+  
+  .techverse-home-page .text-wrapper-27 {
+    position: absolute;
+    width: 570px;
+    top: 45px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+  }
+  
+  .techverse-home-page .text-wrapper-28 {
+    position: absolute;
+    width: 570px;
+    top: 216px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+  }
+  
+  .techverse-home-page .heading-discover-13 {
+    top: 0;
+    left: 0;
+    color: #11171b;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .heading-discover-14 {
+    top: 171px;
+    left: 0;
+    color: #11171b;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .image-3 {
+    position: absolute;
+    width: 540px;
+    height: 350px;
+    top: 150px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .techverse-home-page .heading-we-4 {
+    top: 0;
+    left: 352px;
+    font-weight: 700;
+    color: #000000;
+    font-size: 38px;
+    letter-spacing: 0.38px;
+    line-height: normal;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+  }
+  
+  .techverse-home-page .to-produce-immersive {
+    position: absolute;
+    width: 1030px;
+    top: 62px;
+    left: 70px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+  }
+  
+  .techverse-home-page .overlap-28 {
+    position: absolute;
+    width: 1440px;
+    height: 369px;
+    top: 3866px;
+    left: 0;
+    background-color: #070916;
+  }
+  
+  .techverse-home-page .group-24 {
+    position: relative;
+    width: 1030px;
+    height: 269px;
+    top: 50px;
+    left: 205px;
+  }
+  
+  .techverse-home-page .group-25 {
+    position: absolute;
+    width: 1030px;
+    height: 115px;
+    top: 0;
+    left: 0;
+  }
+  
+  .techverse-home-page .group-26 {
+    position: relative;
+    width: 1034px;
+    height: 115px;
+  }
+  
+  .techverse-home-page .heading-we-5 {
+    top: 0;
+    left: 298px;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 38px;
+    text-align: center;
+    letter-spacing: 0.38px;
+    line-height: normal;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+  }
+  
+  .techverse-home-page .according-to-project {
+    position: absolute;
+    width: 1030px;
+    top: 67px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffffcc;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+  }
+  
+  .techverse-home-page .group-27 {
+    position: absolute;
+    width: 826px;
+    height: 114px;
+    top: 155px;
+    left: 102px;
+  }
+  
+  .techverse-home-page .group-28 {
+    position: absolute;
+    width: 826px;
+    height: 45px;
+    top: 0;
+    left: 0;
+  }
+  
+  .techverse-home-page .button-4 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 20px;
+    position: absolute;
+    top: 0;
+    left: 107px;
+    border-radius: 92px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #1f222d;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-home-page .text-wrapper-29 {
+    letter-spacing: var(--heading-01-letter-spacing);
+    line-height: var(--heading-01-line-height);
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--heading-01-font-family);
+    font-weight: var(--heading-01-font-weight);
+    color: #ffffff;
+    font-size: var(--heading-01-font-size);
+    text-align: center;
+    white-space: nowrap;
+    font-style: var(--heading-01-font-style);
+  }
+  
+  .techverse-home-page .button-5 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 92px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #1f222d;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-home-page .button-6 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 20px;
+    position: absolute;
+    top: 0;
+    left: 236px;
+    border-radius: 92px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #1f222d;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-home-page .button-7 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 20px;
+    position: absolute;
+    top: 0;
+    left: 371px;
+    border-radius: 92px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #1f222d;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-home-page .button-8 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 20px;
+    position: absolute;
+    top: 0;
+    left: 497px;
+    border-radius: 92px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #1f222d;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-home-page .button-9 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 20px;
+    position: absolute;
+    top: 0;
+    left: 601px;
+    border-radius: 92px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #1f222d;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-home-page .text-wrapper-30 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 16.8px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .button-10 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 20px;
+    position: absolute;
+    top: 0;
+    left: 714px;
+    border-radius: 92px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #1f222d;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-home-page .group-29 {
+    position: absolute;
+    width: 399px;
+    height: 49px;
+    top: 65px;
+    left: 213px;
+  }
+  
+  .techverse-home-page .button-11 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 20px;
+    position: absolute;
+    top: 0;
+    left: 167px;
+    border-radius: 92px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #1f222d;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-home-page .text-wrapper-31 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0.14px;
+    line-height: 21px;
+    white-space: nowrap;
+  }
+  
+  .techverse-home-page .button-12 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 20px;
+    position: absolute;
+    top: 0;
+    left: 266px;
+    border-radius: 92px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #1f222d;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-home-page .group-30 {
+    position: absolute;
+    width: 1172px;
+    height: 387px;
+    top: 4305px;
+    left: 135px;
+  }
+  
+  .techverse-home-page .heading-we-6 {
+    width: 970px;
+    top: 0;
+    left: 100px;
+    font-weight: 700;
+    color: #000000;
+    font-size: 38px;
+    text-align: center;
+    letter-spacing: 0.38px;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+  }
+  
+  .techverse-home-page .group-31 {
+    position: absolute;
+    width: 372px;
+    height: 310px;
+    top: 77px;
+    left: 0;
+  }
+  
+  .techverse-home-page .overlap-group-4 {
+    position: relative;
+    width: 370px;
+    height: 310px;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-home-page .heading-we-7 {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-home-page .group-32 {
+    position: absolute;
+    width: 221px;
+    height: 24px;
+    top: 80px;
+    left: 30px;
+  }
+  
+  .techverse-home-page .heading-we-8 {
+    top: 0;
+    left: 36px;
+    font-weight: 400;
+    color: #000000cc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+  }
+  
+  .techverse-home-page .healthicons-yes {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 0;
+    left: 0;
+  }
+  
+  .techverse-home-page .group-33 {
+    position: absolute;
+    width: 235px;
+    height: 24px;
+    top: 124px;
+    left: 30px;
+  }
+  
+  .techverse-home-page .group-34 {
+    position: absolute;
+    width: 203px;
+    height: 24px;
+    top: 168px;
+    left: 30px;
+  }
+  
+  .techverse-home-page .group-35 {
+    position: absolute;
+    width: 217px;
+    height: 24px;
+    top: 212px;
+    left: 30px;
+  }
+  
+  .techverse-home-page .group-36 {
+    position: absolute;
+    width: 181px;
+    height: 24px;
+    top: 256px;
+    left: 30px;
+  }
+  
+  .techverse-home-page .group-37 {
+    position: absolute;
+    width: 372px;
+    height: 310px;
+    top: 77px;
+    left: 400px;
+  }
+  
+  .techverse-home-page .group-38 {
+    width: 174px;
+    position: absolute;
+    height: 24px;
+    top: 80px;
+    left: 30px;
+  }
+  
+  .techverse-home-page .group-39 {
+    width: 192px;
+    position: absolute;
+    height: 24px;
+    top: 124px;
+    left: 30px;
+  }
+  
+  .techverse-home-page .group-40 {
+    position: absolute;
+    width: 198px;
+    height: 24px;
+    top: 168px;
+    left: 30px;
+  }
+  
+  .techverse-home-page .group-41 {
+    position: absolute;
+    width: 322px;
+    height: 24px;
+    top: 212px;
+    left: 30px;
+  }
+  
+  .techverse-home-page .heading-we-9 {
+    width: 284px;
+    top: 0;
+    left: 36px;
+    font-weight: 400;
+    color: #000000cc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+  }
+  
+  .techverse-home-page .group-42 {
+    width: 322px;
+    position: absolute;
+    height: 24px;
+    top: 256px;
+    left: 30px;
+  }
+  
+  .techverse-home-page .group-43 {
+    position: absolute;
+    width: 372px;
+    height: 310px;
+    top: 77px;
+    left: 800px;
+  }
+  
+  .techverse-home-page .group-44 {
+    width: 267px;
+    position: absolute;
+    height: 24px;
+    top: 80px;
+    left: 30px;
+  }
+  
+  .techverse-home-page .group-45 {
+    width: 164px;
+    position: absolute;
+    height: 24px;
+    top: 124px;
+    left: 30px;
+  }
+  
+  .techverse-home-page .group-46 {
+    width: 329px;
+    position: absolute;
+    height: 24px;
+    top: 256px;
+    left: 30px;
+  }
+  
+  .techverse-home-page .heading-we-10 {
+    width: 291px;
+    top: 0;
+    left: 36px;
+    font-weight: 400;
+    color: #000000cc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+  }
+  
+  .techverse-home-page .button-medium-4 {
+    padding: 16px 30px;
+    top: 360px;
+    left: 135px;
+    /* background-color: #ea2134; */
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    position: absolute;
+    border-radius: 5px;
+  }
+
+   .techverse-home-page .questions-container {
+    box-shadow: 0 4px 8px -3px rgba(0, 0, 0, 0.3);
+  }
+  
+   .techverse-home-page h2 {
+    padding: 4px 32px;
+    font-size: 28px;
+  }
+  
+   .techverse-home-page .faq-header {
+    display: flex;
+    /* background: #03071e;
+    color: #f1faee; */
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+    height: 75px;
+    width: 1030px;
+    border-radius: 8px;
+    background-color: #ffffff;
+  }
+  
+   .techverse-home-page .faq-header .open,
+   .techverse-home-page .faq-header .close {
+    position: absolute;
+    right: 0;
+    padding: 0 32px;
+    font-size: 36px;
+    font-weight: bold;
+    transform: translateY(-8px);
+    opacity: 0;
+    /* transition: all 500ms; */
+  }
+  
+   .techverse-home-page .faq-header .open.active,
+   .techverse-home-page .faq-header .close.active {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+   .techverse-home-page .faq-header h3 {
+    font-size: 18px;
+    padding: 0 32px;
+    font-family: 'Poppins';
+    font-weight: 500;
+  }
+  
+   .techverse-home-page .content {
+    padding: 0 32px;
+    background: #fdfffc;
+    line-height: 2;
+    max-height: 0;
+    overflow: hidden;
+    transition: all 500ms;
+    font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  
+  }
+  
+   .techverse-home-page .content.active {
+    max-height: 600px;
+  }
+  

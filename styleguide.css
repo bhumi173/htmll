@@ -1,0 +1,91 @@
+:root {
+  --p-1: rgba(248, 67, 63, 1);
+  --final-color: rgba(234, 33, 52, 1);
+  --color-styleswhite: rgba(255, 255, 255, 1);
+  --color-stylesprimary: rgba(253, 76, 92, 1);
+  --type-72-font-family: "Syne-Bold", Helvetica;
+  --type-72-font-weight: 700;
+  --type-72-font-size: 76px;
+  --type-72-letter-spacing: 0px;
+  --type-72-line-height: 120.00000476837158%;
+  --type-72-font-style: normal;
+  --type-44-font-family: "Poppins";
+  --type-44-font-weight: 400;
+  --type-44-font-size: 44px;
+  --type-44-letter-spacing: 0px;
+  --type-44-line-height: 120.00000476837158%;
+  --type-44-font-style: normal;
+  --type-26-font-family: "Poppins";
+  --type-26-font-weight: 400;
+  --type-26-font-size: 24px;
+  --type-26-letter-spacing: 0px;
+  --type-26-line-height: 120.00000476837158%;
+  --type-26-font-style: normal;
+  --type-21-font-family: "Poppins";
+  --type-21-font-weight: 400;
+  --type-21-font-size: 20px;
+  --type-21-letter-spacing: 0px;
+  --type-21-line-height: 120.00000476837158%;
+  --type-21-font-style: normal;
+  --type-16-font-family: "Poppins";
+  --type-16-font-weight: 400;
+  --type-16-font-size: 18px;
+  --type-16-letter-spacing: 0px;
+  --type-16-line-height: 120.00000476837158%;
+  --type-16-font-style: normal;
+  --type-12-font-family: "Poppins";
+  --type-12-font-weight: 400;
+  --type-12-font-size: 16px;
+  --type-12-letter-spacing: 0px;
+  --type-12-line-height: 120.00000476837158%;
+  --type-12-font-style: normal;
+  --heading-01-font-family: "Poppins";
+  --heading-01-font-weight: 400;
+  --heading-01-font-size: 14px;
+  --heading-01-letter-spacing: 0px;
+  --heading-01-line-height: 120.00000476837158%;
+  --heading-01-font-style: normal;
+  --button-font-family: "Poppins";
+  --button-font-weight: 600;
+  --button-font-size: 16px;
+  --button-letter-spacing: 0px;
+  --button-line-height: 24px;
+  --button-font-style: normal;
+}
+
+
+/* For desktop: */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+}
+
+/*--------------------------------------------------------------
+  # Disable aos animation delay on mobile devices
+  --------------------------------------------------------------*/
+  @media screen and (max-width: 768px) {
+    [data-aos-delay] {
+      transition-delay: 0 !important;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }

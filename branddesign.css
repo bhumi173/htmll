@@ -1,0 +1,929 @@
+.techverse-portfolio {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* width: 100%; */
+    width: fit-content;
+  }
+  
+  .techverse-portfolio .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 3721px;
+    position: relative;
+  }
+  
+  .techverse-portfolio .group {
+    position: absolute;
+    width: 1440px;
+    height: 88px;
+    top: 0;
+    left: 0;
+    /* box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.5) */
+  }
+  
+  .techverse-portfolio .overlap-group {
+    position: relative;
+    width: 1170px;
+    height: 51px;
+    top: 20px;
+    left: 135px;
+  }
+  
+  .techverse-portfolio .group-2 {
+    position: absolute;
+    width: 1170px;
+    height: 51px;
+    top: 0;
+    left: 0;
+  }
+  
+  .techverse-portfolio .button-medium-wrapper {
+    position: absolute;
+    width: 139px;
+    height: 51px;
+    top: 0;
+    left: 1031px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-portfolio .button-medium {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 14px 30px;
+    position: relative;
+    background-color: #ea2134;
+    border-radius: 5px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-portfolio .button {
+    font-family: "Product Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 23.3px;
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    white-space: nowrap;
+    all: unset;
+    box-sizing: border-box;
+    margin-left: 1032px;
+    background-color: #f8433f;
+    padding: 14px 30px 14px 30px;
+    color: white;
+    width: 139px;
+    height: 51px;
+    margin-top: -16px;
+    border-radius: 5px;
+  }
+  
+  .techverse-portfolio .img {
+    position: absolute;
+    width: 206px;
+    height: 40px;
+    top: 6px;
+    left: 0;
+  }
+  
+  .techverse-portfolio .navbar {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 44px;
+    position: absolute;
+    top: 14px;
+    left: 380px;
+  }
+  
+  .techverse-portfolio .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins";
+    font-weight: 400;
+    color: #11171b;
+    font-size: 14px;
+    letter-spacing: 0.14px;
+    line-height: normal;
+  }
+  
+  .techverse-portfolio .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins";
+    font-weight: 400;
+    color: #ea2134;
+    font-size: 14px;
+    letter-spacing: 0.16px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .we-do-amazing-things {
+    position: absolute;
+    top: 204px;
+    left: 135px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #11171b;
+    font-size: 38px;
+    letter-spacing: 0.38px;
+    line-height: normal;
+  }
+  
+  .techverse-portfolio .navbar-2 {
+    position: absolute;
+    width: 1178px;
+    height: 37px;
+    top: 373px;
+    left: 135px;
+  }
+  
+  .techverse-portfolio .overlap {
+    position: absolute;
+    width: 1170px;
+    height: 1px;
+    top: 36px;
+    left: 0;
+    background-color: #d9d9d9;
+  }
+  
+  .techverse-portfolio .rectangle {
+    position: relative;
+    width: 120px;
+    height: 1px;
+    left: 279px;
+    background-color: #000000;
+  }
+  
+  .techverse-portfolio .text-wrapper-3 {
+    position: absolute;
+    top: 0;
+    left: 13px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171b;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .text-wrapper-4 {
+    position: absolute;
+    top: 0;
+    left: 150px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171b;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .text-wrapper-5 {
+    position: absolute;
+    top: 0;
+    left: 283px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: #11171b;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .text-wrapper-6 {
+    position: absolute;
+    top: 0;
+    left: 434px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171b;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .group-3 {
+    position: absolute;
+    width: 574px;
+    height: 109px;
+    top: 885px;
+    left: 135px;
+  }
+  
+  .techverse-portfolio .p {
+    position: absolute;
+    width: 570px;
+    top: 37px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+  }
+  
+  .techverse-portfolio .text-wrapper-7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #11171b;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .techverse-portfolio .group-4 {
+    position: absolute;
+    width: 574px;
+    height: 109px;
+    top: 885px;
+    left: 735px;
+  }
+  
+  .techverse-portfolio .image {
+    top: 440px;
+    left: 135px;
+    position: absolute;
+    width: 570px;
+    height: 420px;
+    object-fit: cover;
+  }
+  
+  .techverse-portfolio .image-2 {
+    top: 440px;
+    left: 735px;
+    position: absolute;
+    width: 570px;
+    height: 420px;
+    object-fit: cover;
+  }
+  
+  .techverse-portfolio .group-5 {
+    position: absolute;
+    width: 574px;
+    height: 109px;
+    top: 1479px;
+    left: 135px;
+  }
+  
+  .techverse-portfolio .group-6 {
+    position: absolute;
+    width: 574px;
+    height: 109px;
+    top: 1479px;
+    left: 735px;
+  }
+  
+  .techverse-portfolio .image-3 {
+    top: 1034px;
+    left: 135px;
+    position: absolute;
+    width: 570px;
+    height: 420px;
+    object-fit: cover;
+  }
+  
+  .techverse-portfolio .image-4 {
+    top: 1034px;
+    left: 735px;
+    position: absolute;
+    width: 570px;
+    height: 420px;
+    object-fit: cover;
+  }
+  
+  .techverse-portfolio .group-7 {
+    position: absolute;
+    width: 574px;
+    height: 109px;
+    top: 2073px;
+    left: 135px;
+  }
+  
+  .techverse-portfolio .group-8 {
+    position: absolute;
+    width: 574px;
+    height: 109px;
+    top: 2073px;
+    left: 735px;
+  }
+  
+  .techverse-portfolio .image-5 {
+    top: 1628px;
+    left: 135px;
+    position: absolute;
+    width: 570px;
+    height: 420px;
+    object-fit: cover;
+  }
+  
+  .techverse-portfolio .image-6 {
+    top: 1628px;
+    left: 735px;
+    position: absolute;
+    width: 570px;
+    height: 420px;
+    object-fit: cover;
+  }
+  
+  .techverse-portfolio .group-9 {
+    position: absolute;
+    width: 574px;
+    height: 109px;
+    top: 2667px;
+    left: 135px;
+  }
+  
+  .techverse-portfolio .group-10 {
+    position: absolute;
+    width: 574px;
+    height: 109px;
+    top: 2667px;
+    left: 735px;
+  }
+  
+  .techverse-portfolio .image-7 {
+    top: 2222px;
+    left: 135px;
+    position: absolute;
+    width: 570px;
+    height: 420px;
+    object-fit: cover;
+  }
+  
+  .techverse-portfolio .image-8 {
+    top: 2222px;
+    left: 735px;
+    position: absolute;
+    width: 570px;
+    height: 420px;
+    object-fit: cover;
+  }
+  
+  .techverse-portfolio .group-11 {
+    position: absolute;
+    width: 1440px;
+    height: 875px;
+    top: 2846px;
+    left: 0;
+  }
+  
+  .techverse-portfolio .overlap-group-wrapper {
+    position: absolute;
+    width: 1170px;
+    height: 220px;
+    top: 0;
+    left: 135px;
+  }
+  
+  .techverse-portfolio .overlap-group-2 {
+    position: relative;
+    height: 220px;
+  }
+  
+  .techverse-portfolio .group-12 {
+    position: absolute;
+    width: 1170px;
+    height: 220px;
+    top: 0;
+    left: 0;
+    background: linear-gradient(-48deg, rgb(254, 77, 137) 0%, rgb(246, 126, 46) 100%);
+  }
+  
+  .techverse-portfolio .grow-up-your-wrapper {
+    position: absolute;
+    width: 616px;
+    height: 126px;
+    top: 47px;
+    left: 60px;
+  }
+  
+  .techverse-portfolio .grow-up-your {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 42px;
+    letter-spacing: 0.42px;
+    line-height: normal;
+  }
+  
+  .techverse-portfolio .button-medium-2 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 14px 30px;
+    position: absolute;
+    top: 83px;
+    left: 955px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .techverse-portfolio .button-2 {
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #fd4f84;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 26.2px;
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    white-space: nowrap;
+    all: unset;
+    box-sizing: border-box;
+    margin-left: 951px;
+  margin-top: 83px;
+  width: 139px;
+  height: 54px;
+  background-color: #ffffff;
+  top: 3945px;
+  border-radius: 5px;
+  color: #fd5180;
+  font-family: Poppins;
+  padding: 14px 30px 14px 30px;
+  font-weight: 500;
+  font-size: smaller;
+  cursor: pointer;
+  }
+  
+  .techverse-portfolio .XMLID {
+    position: absolute;
+    width: 177px;
+    height: 49px;
+    top: 100px;
+    left: 700px;
+  }
+  
+  .techverse-portfolio .group-13 {
+    position: absolute;
+    width: 1440px;
+    height: 585px;
+    top: 290px;
+    left: 0;
+  }
+  
+  .techverse-portfolio .group-14 {
+    position: absolute;
+    width: 1440px;
+    height: 524px;
+    top: 0;
+    left: 0;
+    background-color: #f9f9f9;
+  }
+  
+  .techverse-portfolio .group-15 {
+    position: absolute;
+    width: 146px;
+    height: 384px;
+    top: 70px;
+    left: 667px;
+  }
+  
+  .techverse-portfolio .text-wrapper-8 {
+    position: absolute;
+    top: 52px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .text-wrapper-9 {
+    position: absolute;
+    top: 90px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .text-wrapper-10 {
+    position: absolute;
+    top: 128px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .text-wrapper-11 {
+    position: absolute;
+    top: 166px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .text-wrapper-12 {
+    position: absolute;
+    top: 206px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .text-wrapper-13 {
+    position: absolute;
+    top: 247px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .text-wrapper-14 {
+    position: absolute;
+    top: 283px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .text-wrapper-15 {
+    position: absolute;
+    top: 324px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .text-wrapper-16 {
+    position: absolute;
+    top: 360px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .group-16 {
+    position: absolute;
+    width: 221px;
+    height: 384px;
+    top: 70px;
+    left: 842px;
+  }
+  
+  .techverse-portfolio .group-17 {
+    position: absolute;
+    width: 170px;
+    height: 266px;
+    top: 70px;
+    left: 454px;
+  }
+  
+  .techverse-portfolio .frame {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 14px;
+    position: absolute;
+    top: 52px;
+    left: 0;
+  }
+  
+  .techverse-portfolio .text-wrapper-17 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .text-wrapper-18 {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .div-wrapper {
+    position: absolute;
+    width: 224px;
+    height: 214px;
+    top: 70px;
+    left: 1084px;
+  }
+  
+  .techverse-portfolio .overlap-group-3 {
+    position: relative;
+    width: 234px;
+    height: 214px;
+  }
+  
+  .techverse-portfolio .group-18 {
+    position: absolute;
+    width: 30px;
+    height: 162px;
+    top: 52px;
+    left: 0;
+  }
+  
+  .techverse-portfolio .group-19 {
+    position: absolute;
+    width: 234px;
+    height: 211px;
+    top: 0;
+    left: 0;
+  }
+  
+  .techverse-portfolio .techverse {
+    position: absolute;
+    top: 55px;
+    left: 45px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .hello-techverse-com {
+    position: absolute;
+    top: 99px;
+    left: 45px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .element {
+    position: absolute;
+    top: 143px;
+    left: 45px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .element-2 {
+    position: absolute;
+    top: 187px;
+    left: 45px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .group-20 {
+    position: absolute;
+    width: 273px;
+    height: 254px;
+    top: 70px;
+    left: 134px;
+  }
+  
+  .techverse-portfolio .the-thumb-s-natural {
+    position: absolute;
+    width: 270px;
+    top: 52px;
+    left: 1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+  }
+  
+  .techverse-portfolio .group-21 {
+    position: absolute;
+    width: 101px;
+    height: 24px;
+    top: 181px;
+    left: 1px;
+  }
+  
+  .techverse-portfolio .text-wrapper-19 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .group-22 {
+    position: absolute;
+    width: 199px;
+    height: 36px;
+    top: 218px;
+    left: 1px;
+  }
+  
+  .techverse-portfolio .twitter {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 0;
+  }
+  
+  .techverse-portfolio .FB {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 54px;
+  }
+  
+  .techverse-portfolio .insta {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 109px;
+  }
+  
+  .techverse-portfolio .youtube {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 163px;
+  }
+  
+  .techverse-portfolio .group-23 {
+    position: absolute;
+    width: 175px;
+    height: 34px;
+    top: 0;
+    left: 0;
+  }
+  
+  .techverse-portfolio .group-wrapper {
+    position: absolute;
+    width: 1440px;
+    height: 61px;
+    top: 524px;
+    left: 0;
+    background-color: #11171b;
+  }
+  
+  .techverse-portfolio .group-24 {
+    position: relative;
+    width: 305px;
+    height: 27px;
+    top: 17px;
+    left: 568px;
+  }
+  
+  .techverse-portfolio .text-wrapper-20 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0.18px;
+    line-height: 26.5px;
+    white-space: nowrap;
+  }
+  
+  .techverse-portfolio .text-wrapper-21 {
+    position: absolute;
+    top: 129px;
+    left: 135px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ea2134;
+    font-size: 14px;
+    letter-spacing: 0.14px;
+    line-height: normal;
+  }
+  
+  .techverse-portfolio .text-wrapper-22 {
+    position: absolute;
+    top: 129px;
+    left: 199px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 14px;
+    letter-spacing: 0.14px;
+    line-height: normal;
+  }
+  
+  .techverse-portfolio .rectangle-2 {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    top: 138px;
+    left: 184px;
+    background-color: #d9d9d9;
+  }
+  
+  .techverse-portfolio .text-wrapper-23 {
+    position: absolute;
+    top: 129px;
+    left: 260px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #11171bcc;
+    font-size: 14px;
+    letter-spacing: 0.14px;
+    line-height: normal;
+  }
+  
+  .techverse-portfolio .rectangle-3 {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    top: 138px;
+    left: 245px;
+    background-color: #d9d9d9;
+  }
+  

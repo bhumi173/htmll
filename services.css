@@ -1,0 +1,1522 @@
+.techverse-services {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.techverse-services .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  border: 0px none;
+  width: 1440px;
+  height: 4033px;
+  position: relative;
+}
+
+.techverse-services .group {
+  position: absolute;
+  width: 1440px;
+  height: 88px;
+  top: 0;
+  left: 0;
+}
+
+.techverse-services .overlap-group {
+  position: relative;
+  width: 1170px;
+  height: 51px;
+  top: 20px;
+  left: 135px;
+}
+
+.techverse-services .group-2 {
+  position: absolute;
+  width: 1170px;
+  height: 51px;
+  top: 0;
+  left: 0;
+}
+
+.techverse-services .button-medium-wrapper {
+  position: absolute;
+  width: 139px;
+  height: 51px;
+  top: 0;
+  left: 1031px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.techverse-services .button-medium {
+  padding: 14px 30px;
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background-color: #f13c31;
+  border-radius: 5px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.techverse-services .button {
+  font-family: Poppins;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 23.3px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-weight: 400;
+  color: #ffffff;
+  white-space: nowrap;
+  all: unset;
+  box-sizing: border-box;
+  margin-left: 1032px;
+  background-color: #f8433f;
+  padding: 14px 30px 14px 30px;
+  color: white;
+  width: 139px;
+  height: 51px;
+  margin-top: -16px;
+  border-radius: 5px;
+}
+
+.techverse-services .img {
+  position: absolute;
+  width: 206px;
+  height: 40px;
+  top: 12px;
+  left: 0;
+}
+
+.techverse-services .navbar {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 40px;
+  position: absolute;
+  top: 23px;
+  left: 379px;
+}
+
+.techverse-services .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: Poppins;
+  font-weight: 400;
+  color: #0a0c10;
+  font-size: 14px;
+  letter-spacing: 0.16px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: Poppins;
+  font-weight: 400;
+  color: #f13c31;
+  font-size: 14px;
+  letter-spacing: 0.16px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.techverse-services .make-the-most-of {
+  position: absolute;
+  width: 796px;
+  top: 186px;
+  left: 135px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #0a0c10;
+  font-size: 38px;
+  letter-spacing: 0.38px;
+  line-height: normal;
+}
+
+.techverse-services .text-wrapper-3 {
+  position: absolute;
+  top: 128px;
+  left: 135px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #f13c31;
+  font-size: 14px;
+  letter-spacing: 0.14px;
+  line-height: normal;
+}
+
+.techverse-services .text-wrapper-4 {
+  position: absolute;
+  top: 128px;
+  left: 199px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 14px;
+  letter-spacing: 0.14px;
+  line-height: normal;
+}
+
+.techverse-services .rectangle {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 136px;
+  left: 184px;
+  background-color: #d9d9d9;
+}
+
+.techverse-services .overlap {
+  position: absolute;
+  width: 1174px;
+  height: 449px;
+  top: 396px;
+  left: 133px;
+}
+
+.techverse-services .overlap-wrapper {
+  position: absolute;
+  width: 1174px;
+  height: 449px;
+  top: 0;
+  left: 0;
+}
+
+.techverse-services .overlap-2 {
+  position: relative;
+  width: 1170px;
+  height: 449px;
+  background-color: #cccbff;
+  border-radius: 24px;
+}
+
+.techverse-services .p {
+  position: absolute;
+  width: 556px;
+  top: 113px;
+  left: 50px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+}
+
+.techverse-services .text-wrapper-5 {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #0a0c10;
+  font-size: 32px;
+  letter-spacing: 0.32px;
+  line-height: normal;
+}
+
+.techverse-services .button-medium-2 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 16px 30px;
+  position: absolute;
+  top: 347px;
+  left: 50px;
+  background-color: #f13c31;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.techverse-services .button-2 {
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  letter-spacing: 0.14px;
+  line-height: 20.4px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-weight: 400;
+  color: #ffffff;
+  white-space: nowrap;
+  all: unset;
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: Poppins;
+  cursor: pointer;
+}
+
+.techverse-services .group-3 {
+  position: absolute;
+  width: 424px;
+  height: 378px;
+  top: 38px;
+  left: 667px;
+}
+
+.techverse-services .overlap-3 {
+  position: absolute;
+  width: 1174px;
+  height: 449px;
+  top: 1448px;
+  left: 133px;
+}
+
+.techverse-services .overlap-4 {
+  position: relative;
+  width: 1170px;
+  height: 449px;
+  background-color: #f8c9d0;
+  border-radius: 24px;
+}
+
+.techverse-services .text-wrapper-6 {
+  position: absolute;
+  width: 550px;
+  top: 113px;
+  left: 50px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 25.6px;
+}
+
+.techverse-services .group-4 {
+  position: absolute;
+  width: 510px;
+  height: 60px;
+  top: 247px;
+  left: 50px;
+}
+
+.techverse-services .group-wrapper {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 0;
+  left: 450px;
+}
+
+.techverse-services .clip-path-group-wrapper {
+  position: relative;
+  height: 60px;
+  background-color: #ffffff4c;
+  border-radius: 12px;
+}
+
+.techverse-services .clip-path-group {
+  position: absolute;
+  width: 26px;
+  height: 36px;
+  top: 12px;
+  left: 17px;
+}
+
+.techverse-services .img-wrapper {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 0;
+  left: 360px;
+  background-color: #ffffff4c;
+  border-radius: 12px;
+}
+
+.techverse-services .group-5 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 14px;
+  left: 14px;
+}
+
+.techverse-services .path-wrapper {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 0;
+  left: 180px;
+  background-color: #ffffff4c;
+  border-radius: 12px;
+}
+
+.techverse-services .path {
+  position: absolute;
+  width: 36px;
+  height: 32px;
+  top: 14px;
+  left: 12px;
+}
+
+.techverse-services .group-6 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 0;
+  left: 90px;
+  background-color: #ffffff4c;
+  border-radius: 12px;
+}
+
+.techverse-services .path-2 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 12px;
+  left: 12px;
+}
+
+.techverse-services .group-7 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff4c;
+  border-radius: 12px;
+}
+
+.techverse-services .group-8 {
+  position: absolute;
+  width: 38px;
+  height: 34px;
+  top: 13px;
+  left: 11px;
+}
+
+.techverse-services .overlap-group-wrapper {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 0;
+  left: 270px;
+}
+
+.techverse-services .overlap-group-2 {
+  position: relative;
+  height: 60px;
+  border-radius: 12px;
+}
+
+.techverse-services .vector {
+  position: absolute;
+  width: 26px;
+  height: 23px;
+  top: 14px;
+  left: 17px;
+}
+
+.techverse-services .vector-2 {
+  position: absolute;
+  width: 14px;
+  height: 9px;
+  top: 37px;
+  left: 29px;
+}
+
+.techverse-services .vector-3 {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 32px;
+  left: 24px;
+}
+
+.techverse-services .vector-4 {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 37px;
+  left: 29px;
+}
+
+.techverse-services .vector-5 {
+  position: absolute;
+  width: 7px;
+  height: 5px;
+  top: 37px;
+  left: 29px;
+}
+
+.techverse-services .group-9 {
+  position: absolute;
+  width: 437px;
+  height: 349px;
+  top: 64px;
+  left: 654px;
+}
+
+.techverse-services .overlap-5 {
+  position: absolute;
+  width: 1174px;
+  height: 449px;
+  top: 2446px;
+  left: 133px;
+}
+
+.techverse-services .overlap-6 {
+  position: relative;
+  width: 1170px;
+  height: 449px;
+  background-color: #fff2be;
+  border-radius: 24px;
+}
+
+.techverse-services .we-help-you-develop {
+  width: 547px;
+  top: 113px;
+  left: 50px;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 25.6px;
+}
+
+.techverse-services .group-10 {
+  position: absolute;
+  width: 451px;
+  height: 308px;
+  top: 71px;
+  left: 658px;
+}
+
+.techverse-services .overlap-7 {
+  position: absolute;
+  width: 1174px;
+  height: 449px;
+  top: 1947px;
+  left: 133px;
+}
+
+.techverse-services .div-wrapper {
+  position: absolute;
+  width: 1174px;
+  height: 449px;
+  top: 0;
+  left: 0;
+  transform: rotate(180deg);
+}
+
+.techverse-services .overlap-8 {
+  position: relative;
+  width: 1170px;
+  height: 449px;
+  background-color: #96f0ff;
+  border-radius: 24px;
+}
+
+.techverse-services .text-wrapper-7 {
+  width: 550px;
+  top: 232px;
+  left: 70px;
+  transform: rotate(-180deg);
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 25.6px;
+}
+
+.techverse-services .group-11 {
+  position: absolute;
+  width: 240px;
+  height: 60px;
+  top: 142px;
+  left: 380px;
+}
+
+.techverse-services .overlap-9 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 0;
+  left: 0;
+  border-radius: 12px;
+}
+
+.techverse-services .group-12 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff33;
+  border-radius: 12px;
+  transform: rotate(-180deg);
+}
+
+.techverse-services .clip-path-group-2 {
+  height: 33px;
+  top: 13px;
+  position: absolute;
+  width: 36px;
+  left: 12px;
+  transform: rotate(-180deg);
+}
+
+.techverse-services .overlap-group-3 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 0;
+  left: 90px;
+  border-radius: 12px;
+}
+
+.techverse-services .clip-path-group-3 {
+  height: 27px;
+  top: 16px;
+  position: absolute;
+  width: 36px;
+  left: 12px;
+  transform: rotate(-180deg);
+}
+
+.techverse-services .overlap-10 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 0;
+  left: 180px;
+  border-radius: 12px;
+}
+
+.techverse-services .path-3 {
+  position: absolute;
+  width: 24px;
+  height: 35px;
+  top: 12px;
+  left: 18px;
+  transform: rotate(-180deg);
+}
+
+.techverse-services .text-wrapper-8 {
+  position: absolute;
+  top: 351px;
+  left: 398px;
+  transform: rotate(-180deg);
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #0a0c10;
+  font-size: 32px;
+  letter-spacing: 0.32px;
+  line-height: normal;
+}
+
+.techverse-services .button-medium-3 {
+  padding: 16px 30px;
+  position: absolute;
+  top: 50px;
+  left: 470px;
+  transform: rotate(-180deg);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background-color: #f13c31;
+  border-radius: 5px;
+}
+
+.techverse-services .mobile-ui-ux-bro {
+  position: absolute;
+  width: 464px;
+  height: 298px;
+  top: 76px;
+  left: 39px;
+}
+
+.techverse-services .overlap-11 {
+  position: absolute;
+  width: 1174px;
+  height: 449px;
+  top: 2945px;
+  left: 133px;
+}
+
+.techverse-services .overlap-12 {
+  position: relative;
+  width: 1170px;
+  height: 449px;
+  background-color: #9cffe1;
+  border-radius: 24px;
+}
+
+.techverse-services .we-help-you-develop-2 {
+  width: 529px;
+  top: 128px;
+  left: 91px;
+  transform: rotate(-180deg);
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 25.6px;
+}
+
+.techverse-services .text-wrapper-9 {
+  position: absolute;
+  top: 351px;
+  left: 340px;
+  transform: rotate(-180deg);
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #0a0c10;
+  font-size: 32px;
+  letter-spacing: 0.32px;
+  line-height: normal;
+}
+
+.techverse-services .group-13 {
+  position: absolute;
+  width: 371px;
+  height: 360px;
+  top: 50px;
+  left: 78px;
+}
+
+.techverse-services .group-14 {
+  position: absolute;
+  width: 1170px;
+  height: 503px;
+  top: 895px;
+  left: 133px;
+}
+
+.techverse-services .overlap-13 {
+  position: relative;
+  width: 1174px;
+  height: 503px;
+}
+
+.techverse-services .group-15 {
+  position: absolute;
+  width: 1174px;
+  height: 503px;
+  top: 0;
+  left: 0;
+  transform: rotate(180deg);
+}
+
+.techverse-services .overlap-14 {
+  position: relative;
+  width: 1170px;
+  height: 503px;
+  background-color: #9ef8cc;
+  border-radius: 24px;
+}
+
+.techverse-services .overlap-15 {
+  position: absolute;
+  width: 510px;
+  height: 140px;
+  top: 142px;
+  left: 110px;
+}
+
+.techverse-services .group-16 {
+  position: absolute;
+  width: 510px;
+  height: 140px;
+  top: 0;
+  left: 0;
+}
+
+.techverse-services .group-17 {
+  position: relative;
+  height: 140px;
+  transform: rotate(-180deg);
+}
+
+.techverse-services .overlap-16 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 80px;
+  left: 360px;
+  background-color: #ffffff4c;
+  border-radius: 12px;
+}
+
+.techverse-services .group-18 {
+  position: absolute;
+  width: 40px;
+  height: 15px;
+  top: 23px;
+  left: 10px;
+}
+
+.techverse-services .overlap-group-4 {
+  position: absolute;
+  width: 60px;
+  height: 140px;
+  top: 0;
+  left: 450px;
+}
+
+.techverse-services .group-19 {
+  position: absolute;
+  width: 60px;
+  height: 140px;
+  top: 0;
+  left: 0;
+}
+
+.techverse-services .div-2 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 80px;
+  left: 0;
+  background-color: #ffffff4c;
+  border-radius: 12px;
+}
+
+.techverse-services .rails {
+  position: absolute;
+  width: 43px;
+  height: 16px;
+  top: 22px;
+  left: 8px;
+}
+
+.techverse-services .php-logo-only-letter {
+  position: absolute;
+  width: 42px;
+  height: 21px;
+  top: 99px;
+  left: 9px;
+}
+
+.techverse-services .laravel-wrapper {
+  top: 80px;
+  left: 90px;
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background-color: #ffffff4c;
+  border-radius: 12px;
+}
+
+.techverse-services .laravel {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 13px;
+  left: 13px;
+}
+
+.techverse-services .group-20 {
+  position: absolute;
+  width: 38px;
+  height: 26px;
+  top: 20px;
+  left: 11px;
+}
+
+.techverse-services .python-wrapper {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 80px;
+  left: 270px;
+  background-color: #ffffff4c;
+  border-radius: 12px;
+}
+
+.techverse-services .python {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 13px;
+  left: 13px;
+}
+
+.techverse-services .java-wrapper {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 80px;
+  left: 180px;
+  background-color: #ffffff4c;
+  border-radius: 12px;
+}
+
+.techverse-services .java {
+  position: absolute;
+  width: 28px;
+  height: 38px;
+  top: 11px;
+  left: 17px;
+}
+
+.techverse-services .group-21 {
+  position: absolute;
+  width: 420px;
+  height: 60px;
+  top: 80px;
+  left: 90px;
+}
+
+.techverse-services .div-3 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff4c;
+  border-radius: 12px;
+  transform: rotate(-180deg);
+}
+
+.techverse-services .vector-6 {
+  position: absolute;
+  width: 28px;
+  height: 32px;
+  top: 14px;
+  left: 16px;
+  transform: rotate(-180deg);
+}
+
+.techverse-services .path-4 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 12px;
+  left: 12px;
+  transform: rotate(-180deg);
+}
+
+.techverse-services .overlap-17 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 0;
+  left: 270px;
+  border-radius: 12px;
+}
+
+.techverse-services .vector-7 {
+  position: absolute;
+  width: 30px;
+  height: 32px;
+  top: 14px;
+  left: 15px;
+  transform: rotate(-180deg);
+}
+
+.techverse-services .group-22 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 0;
+  left: 360px;
+  background-color: #ffffff4c;
+  border-radius: 12px;
+  transform: rotate(-180deg);
+}
+
+.techverse-services .vector-8 {
+  position: absolute;
+  width: 36px;
+  height: 31px;
+  top: 15px;
+  left: 12px;
+  transform: rotate(-180deg);
+}
+
+.techverse-services .text-wrapper-10 {
+  width: 550px;
+  top: 312px;
+  left: 70px;
+  transform: rotate(-180deg);
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 25.6px;
+}
+
+.techverse-services .text-wrapper-11 {
+  position: absolute;
+  top: 405px;
+  left: 316px;
+  transform: rotate(-180deg);
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #0a0c10;
+  font-size: 32px;
+  letter-spacing: 0.32px;
+  line-height: normal;
+}
+
+.techverse-services .group-23 {
+  position: absolute;
+  width: 400px;
+  height: 358px;
+  top: 72px;
+  left: 60px;
+}
+
+.techverse-services .group-24 {
+  position: absolute;
+  width: 1502px;
+  height: 569px;
+  top: 3464px;
+  left: 0;
+}
+
+.techverse-services .overlap-18 {
+  position: absolute;
+  width: 1440px;
+  height: 508px;
+  top: 0;
+  left: 0;
+  background-color: #f9fbff;
+}
+
+.techverse-services .text-wrapper-12 {
+  position: absolute;
+  top: 112px;
+  left: 667px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-13 {
+  position: absolute;
+  top: 151px;
+  left: 667px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-14 {
+  position: absolute;
+  top: 190px;
+  left: 667px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-15 {
+  position: absolute;
+  top: 229px;
+  left: 667px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-16 {
+  position: absolute;
+  top: 268px;
+  left: 667px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-17 {
+  position: absolute;
+  top: 307px;
+  left: 667px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-18 {
+  position: absolute;
+  top: 346px;
+  left: 667px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-19 {
+  position: absolute;
+  top: 385px;
+  left: 667px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-20 {
+  left: 667px;
+  position: absolute;
+  top: 60px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #0a0c10;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.techverse-services .text-wrapper-21 {
+  position: absolute;
+  top: 112px;
+  left: 842px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-22 {
+  position: absolute;
+  top: 151px;
+  left: 842px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-23 {
+  position: absolute;
+  top: 190px;
+  left: 842px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .media-communication {
+  top: 229px;
+  position: absolute;
+  left: 842px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-24 {
+  position: absolute;
+  top: 268px;
+  left: 842px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-25 {
+  position: absolute;
+  top: 307px;
+  left: 842px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-26 {
+  position: absolute;
+  top: 346px;
+  left: 842px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-27 {
+  position: absolute;
+  top: 385px;
+  left: 842px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-28 {
+  top: 424px;
+  position: absolute;
+  left: 842px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .company {
+  left: 842px;
+  position: absolute;
+  top: 60px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #0a0c10;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.techverse-services .text-wrapper-29 {
+  position: absolute;
+  top: 112px;
+  left: 454px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-30 {
+  position: absolute;
+  top: 151px;
+  left: 454px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-31 {
+  position: absolute;
+  top: 190px;
+  left: 454px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-32 {
+  position: absolute;
+  top: 229px;
+  left: 454px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-33 {
+  position: absolute;
+  top: 268px;
+  left: 454px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-34 {
+  top: 307px;
+  left: 454px;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+}
+
+.techverse-services .company-2 {
+  left: 454px;
+  position: absolute;
+  top: 60px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #0a0c10;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.techverse-services .group-25 {
+  position: absolute;
+  width: 30px;
+  height: 162px;
+  top: 112px;
+  left: 1084px;
+}
+
+.techverse-services .techverse {
+  position: absolute;
+  top: 115px;
+  left: 1129px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .hello-techverse-com {
+  position: absolute;
+  top: 159px;
+  left: 1129px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .element {
+  position: absolute;
+  top: 203px;
+  left: 1129px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .element-2 {
+  position: absolute;
+  top: 247px;
+  left: 1129px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .text-wrapper-35 {
+  position: absolute;
+  top: 60px;
+  left: 1084px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #0a0c10;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.techverse-services .group-26 {
+  position: absolute;
+  width: 273px;
+  height: 254px;
+  top: 60px;
+  left: 134px;
+}
+
+.techverse-services .the-thumb-s-natural {
+  position: absolute;
+  width: 270px;
+  top: 52px;
+  left: 1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+}
+
+.techverse-services .group-27 {
+  position: absolute;
+  width: 101px;
+  height: 24px;
+  top: 181px;
+  left: 1px;
+}
+
+.techverse-services .text-wrapper-36 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #222830cc;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.techverse-services .group-28 {
+  position: absolute;
+  width: 199px;
+  height: 36px;
+  top: 218px;
+  left: 1px;
+}
+
+.techverse-services .twitter {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 0;
+  left: 0;
+}
+
+.techverse-services .FB {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 0;
+  left: 54px;
+}
+
+.techverse-services .insta {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 0;
+  left: 109px;
+}
+
+.techverse-services .youtube {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 0;
+  left: 163px;
+}
+
+.techverse-services .group-29 {
+  position: absolute;
+  width: 175px;
+  height: 34px;
+  top: 0;
+  left: 0;
+}
+
+.techverse-services .group-30 {
+  position: absolute;
+  width: 1440px;
+  height: 61px;
+  top: 508px;
+  left: 0;
+  background-color: #0a0c10;
+}
+
+.techverse-services .group-31 {
+  position: relative;
+  width: 305px;
+  height: 27px;
+  top: 17px;
+  left: 568px;
+}
+
+.techverse-services .text-wrapper-37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: Poppins;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0.18px;
+  line-height: 26.5px;
+  white-space: nowrap;
+}
